@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I'm Mechanical Engineering Student With Interest On Pentesting and Coding
-- 🌱 I’m currently learning Javascript
+
 
 
 <br>
